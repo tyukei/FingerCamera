@@ -1,14 +1,15 @@
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
- 
-FingerCamera
+# Name: FingerCamera
 
 Camera with finger frame
+I made a camera device instead of smart phone.
+You can save pictures faster and more creative by this.
  
 # DEMO
- 
+ https://drive.google.com/file/d/1T3HQywZr4Xg4dm3qFknymkDd8lCuX5fH/view?usp=sharing
+ <iframe src="https://drive.google.com/file/d/1T3HQywZr4Xg4dm3qFknymkDd8lCuX5fH/preview" width="640" height="480" allow="autoplay"></iframe>
  
 # Features
- 
+
 Whereve and Whenever you can take pic as if you can see now.
  
 # Requirement
@@ -36,13 +37,11 @@ This is prottype.
  
 # Author
  
-作成情報を列挙する
  
 * NakataKeita
 * nakata.keita.12@gmail.com
  
 # License
-ライセンスを明示する
  
 "FingerCamera" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
  
