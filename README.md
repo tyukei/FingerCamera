@@ -6,7 +6,7 @@ You can save pictures faster and more creative by this.
  
 # DEMO
  
-<div><video controls src="https://drive.google.com/file/d/1T3HQywZr4Xg4dm3qFknymkDd8lCuX5fH/view?usp=sharing" muted="false"></video></div>
+<div><video controls src="https://drive.google.com/file/d/1T3HQywZr4Xg4dm3qFknymkDd8lCuX5fH/preview" muted="false"></video></div>
  
 # Features
 
