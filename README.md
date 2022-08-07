@@ -5,8 +5,8 @@ I made a camera device instead of smart phone.
 You can save pictures faster and more creative by this.
  
 # DEMO
- https://drive.google.com/file/d/1T3HQywZr4Xg4dm3qFknymkDd8lCuX5fH/view?usp=sharing
- <iframe src="https://drive.google.com/file/d/1T3HQywZr4Xg4dm3qFknymkDd8lCuX5fH/preview" width="640" height="480" allow="autoplay"></iframe>
+ 
+<div><video controls src="https://drive.google.com/file/d/1T3HQywZr4Xg4dm3qFknymkDd8lCuX5fH/view?usp=sharing" muted="false"></video></div>
  
 # Features
 
